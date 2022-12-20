@@ -1,0 +1,25 @@
+﻿<html>
+<head>
+<title>圖片練習</title>
+</head>
+<body>
+
+<h2>part1</h2>
+
+我很可愛吧<p>
+如果不可愛別看我<p>
+
+<img src="./image/2201.jpg" alt="這是第1張圖" width="400"height"300">
+<img src="./image/2202.jpg" alt="這是第2張圖" width="400"height"300">
+<img src="./image/2203.jpg" alt="這是第3張圖" width="400"height"300">
+
+<h2>part2</h2>
+
+這是我笑起來的時候<p>
+大家都說我這樣子最可愛<p>
+
+<img src="./image/2204.jpg" alt="這是第4張圖" width="400"height"300">
+<img src="./image/2205.jpg" alt="這是第5張圖" width="400"height"300">
+
+</body>
+</html>
